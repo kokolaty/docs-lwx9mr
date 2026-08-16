@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-74hxt9.jambul126.xyz/sitemap.xml
